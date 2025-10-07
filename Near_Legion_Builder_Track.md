@@ -6,11 +6,11 @@
 
 # Rank gates for Builder
 
-- Initiate. Complete 5 of 7 Initiate missions. At least 1 Feedback and 1 Build.
-- Ascendant. Complete 5 of 7 Ascendant missions. Must include “Submit NERN proposal.”
-- Vanguard. Complete 4 of 6 Vanguard missions. Must include “Awarded NERN bounty” or “Accepted NERN milestone.”
-- Prime. Complete 4 of 6 Prime missions. Must include 1 Partner integration and 1 Dev Hub blueprint.
-- Mythic. Complete 3 of 4 Mythic missions. Must include “Production release” or “Maintainer-ship.”
+- Initiate. Complete 5 of 9 Initiate missions. At least 1 Feedback and 4 Build missions.
+- Ascendant. Complete 5 of 7 Ascendant missions. Must include "Submit NERN proposal."
+- Vanguard. Complete 3 of 4 Vanguard missions. Must include "Awarded NERN bounty" or "Accepted NERN milestone."
+- Prime. Complete 3 of 4 Prime missions. Must include 1 Partner integration and 1 Dev Hub blueprint.
+- Mythic. Complete 3 of 4 Mythic missions. Must include "Production release" or "Maintainer-ship."
 
 # Mission spec template
 
@@ -21,17 +21,17 @@
 
 ## Initiate pack
 
-**B-I-1. Join Builder group and pick a focus**
+**B-I-1. NEAR account and wallet setup**
 
-- Task. Join Builder group. Post your focus area, repo handle, and map link.
-- Evidence. Link to intro post.
-- Acceptance. Post includes focus selection.
+- Task. Create a NEAR account and wallet. Send a test transaction and verify it on explorer.
+- Evidence. NEAR account ID, wallet address, and explorer link to test transaction.
+- Acceptance. Transaction appears on NEAR explorer with correct details.
 
 **B-I-2. Dev environment ready**
 
 - Task. Install NEAR CLI and SDK. Scaffold a project.
 - Evidence. Repo link with initial commit. CLI version in README.
-- Acceptance. TBD
+- Acceptance. Repo has working project scaffold. CLI version matches installation guide.
 
 **B-I-3. Deploy Shade agent sandbox**
 
@@ -60,8 +60,20 @@
 **B-I-7. Feedback ticket on a prototype**
 
 - Task. File one high-quality issue on a prototype from the catalog.
-- Evidence. Issue link with label “legion-feedback”.
-- Acceptance. TBD
+- Evidence. Issue link with label "legion-feedback".
+- Acceptance. Issue demonstrates understanding of the codebase and provides actionable feedback.
+
+**B-I-8. Documentation improvement feedback**
+
+- Task. Review a prototype's README and suggest specific documentation improvements.
+- Evidence. Issue link with label "legion-feedback" and specific suggestions.
+- Acceptance. Feedback addresses real documentation gaps with concrete examples.
+
+**B-I-9. Code review feedback**
+
+- Task. Review a prototype's code and provide constructive technical feedback.
+- Evidence. Issue link with label "legion-feedback" and code-specific suggestions.
+- Acceptance. Feedback shows code analysis and suggests testable improvements.
 
 ## Ascendant pack
 
@@ -128,6 +140,24 @@
 - Task. Build and document an integration with a listed partner, for example Alchemy, Ankr, Infura, thirdweb, a wallet, or an auth provider.
 - Evidence. Repo, guide, and sample app.
 - Acceptance. Partner contact adds acknowledgement or merges a docs PR.
+
+**B-P-2. Multi-partner demo application**
+
+- Task. Build a demo app that integrates at least two different partners (e.g., wallet + indexer, or auth provider + storage).
+- Evidence. Repo link, live demo, and integration guide showing both partner APIs.
+- Acceptance. Demo successfully uses both partner services with clear separation of concerns.
+
+**B-P-3. Partner SDK contribution**
+
+- Task. Contribute improvements to a partner's NEAR SDK or documentation.
+- Evidence. PR link to partner repository and merged confirmation.
+- Acceptance. Contribution improves NEAR developer experience with the partner's service.
+
+**B-P-4. Cross-partner compatibility layer**
+
+- Task. Build an abstraction layer that works with multiple similar partners (e.g., multiple indexers or wallets).
+- Evidence. Repo with compatibility layer, usage examples for 2+ partners, and migration guide.
+- Acceptance. Layer successfully abstracts partner differences and enables easy switching.
 
 ## Mythic pack
 
