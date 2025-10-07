@@ -1,0 +1,29 @@
+---
+description: Rank gate definitions and progression requirements for NEAR Legion Builder track
+---
+# Rank Gates
+
+## Initiate
+- Entry-level setup and single-pillar tasks.
+- Complete 5 of 7 Initiate missions.
+- At least 1 Feedback and 1 Build mission required.
+
+## Ascendant
+- Dual-pillar demos, CI, first proposal on NERN.
+- Complete 5 of 7 Ascendant missions.
+- Must include "Submit NERN proposal."
+
+## Vanguard
+- MVP milestone delivery, package release, public demo.
+- Complete 4 of 6 Vanguard missions.
+- Must include "Awarded NERN bounty" or "Accepted NERN milestone."
+
+## Prime
+- Partner integration, indexer or API, security and performance work.
+- Complete 4 of 6 Prime missions.
+- Must include 1 Partner integration and 1 Dev Hub blueprint.
+
+## Mythic
+- Production release, maintainership, mentorship, partner reference integration.
+- Complete 3 of 4 Mythic missions.
+- Must include "Production release" or "Maintainership."

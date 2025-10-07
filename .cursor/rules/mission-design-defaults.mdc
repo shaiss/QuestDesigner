@@ -1,0 +1,40 @@
+---
+description: Default choices when designing missions to reduce review time and increase reuse
+---
+# Mission Design Defaults
+
+## When Unsure, Choose Defaults That:
+1. Reduce review time.
+2. Increase reuse potential.
+3. Align with NEAR ecosystem standards.
+4. Produce verifiable on-chain or public evidence.
+
+## Evidence Defaults
+- Prefer public repositories over private.
+- Prefer on-chain transactions over off-chain logs.
+- Prefer live demos over screenshots.
+- Prefer automated tests over manual verification.
+
+## Task Scope Defaults
+- Prefer smaller, focused tasks over large monolithic ones.
+- Prefer reusable modules over one-off demos.
+- Prefer documented patterns over undocumented code.
+- Prefer standard tools over custom scripts.
+
+## Review Defaults
+- Prefer binary acceptance criteria over subjective judgment.
+- Prefer automated checks over manual inspection.
+- Prefer single-command builds over multi-step processes.
+- Prefer clear pass/fail over gradual scoring.
+
+## Difficulty Defaults
+- Start easier than you think necessary.
+- Escalate difficulty gradually within each rank.
+- Avoid sudden complexity jumps.
+- Provide clear skill prerequisites.
+
+## Integration Defaults
+- Prefer official SDKs over custom implementations.
+- Prefer documented APIs over undocumented endpoints.
+- Prefer stable versions over bleeding edge.
+- Prefer widely-used tools over niche alternatives.

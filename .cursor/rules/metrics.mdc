@@ -1,0 +1,40 @@
+---
+description: Metrics to track Builder track success
+---
+# Metrics
+
+## Submission Metrics
+- Submission count per mission.
+- Acceptance rate per mission.
+- Time to review (target: 72 hours).
+- Bounce rate per mission (revisions requested).
+
+## NERN Integration
+- NERN proposals submitted.
+- NERN awards granted.
+- Milestone acceptances tied to missions.
+- Bounty completion rate.
+
+## Reuse Signals
+- Package downloads from published modules.
+- Repository forks and stars.
+- Dev Hub guide views and completion rates.
+- Partner integration adoption.
+
+## Builder Progression
+- Time to complete each rank.
+- Dropout rate per rank.
+- Rank distribution across active builders.
+- Mentorship connections formed.
+
+## Quality Indicators
+- PR merge rate for prototype contributions.
+- Partner acknowledgment rate.
+- Production deployment count.
+- Uptime for live services.
+
+## Review Quality
+- Average review time per mission.
+- Reviewer agreement rate.
+- Appeal rate for rejected submissions.
+- Revision cycles per submission.

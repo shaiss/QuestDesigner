@@ -1,0 +1,34 @@
+---
+description: NEAR Legion Builder track technical pillars
+---
+# NEAR Legion Technical Pillars
+
+## Shade Agents
+- AI agents running on NEAR infrastructure.
+- Agent behavior customization and deployment.
+- Sandbox environments for testing.
+- Integration with NEAR contracts and services.
+
+## NEAR Intents OneClick API
+- Cross-chain swap execution.
+- Intent-based transaction routing.
+- User experience simplification.
+- Multi-chain coordination.
+
+## Cross-Chain Signatures
+- Chain signatures for multi-chain operations.
+- Signature verification in NEAR contracts.
+- Cross-chain authentication flows.
+- Security and validation patterns.
+
+## NEAR Private AI
+- Privacy-preserving AI inference.
+- Local and distributed AI execution.
+- Model deployment on NEAR.
+- Inference verification and logging.
+
+## Pillar Integration
+- Initiate missions focus on single pillars.
+- Ascendant missions combine two pillars.
+- Vanguard and above require multi-pillar integration.
+- Mythic missions demonstrate production-grade pillar usage.

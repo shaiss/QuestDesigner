@@ -1,0 +1,37 @@
+---
+description: Partner integration requirements and standards
+---
+# Partner Integrations
+
+## Listed Partners
+- Alchemy
+- Ankr
+- Infura
+- thirdweb
+- Wallet providers
+- Auth providers
+- Other ecosystem partners as approved
+
+## Integration Requirements
+- Prime rank requires at least one partner integration.
+- Build and document the integration.
+- Create sample application demonstrating usage.
+- Obtain partner acknowledgment or merged docs PR.
+
+## Integration Quality
+- Follow partner's best practices and guidelines.
+- Include error handling and edge cases.
+- Provide clear setup and configuration steps.
+- Test with partner's production or staging environment.
+
+## Evidence Standards
+- Repository with integration code.
+- Guide or documentation.
+- Sample application with run steps.
+- Partner contact acknowledgment or merged PR.
+
+## Mythic Level
+- Partner reference integration in official partner docs.
+- Live partner docs link required.
+- Partner repo or site must show your work.
+- Demonstrates production-grade integration quality.

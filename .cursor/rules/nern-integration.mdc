@@ -1,0 +1,31 @@
+---
+description: NERN bounty and milestone integration requirements
+---
+# NERN Integration
+
+## NERN Overview
+- NERN is the bounty and milestone platform for NEAR Legion.
+- All significant work should route through NERN.
+- Proposals, bounties, and milestones are tracked on-chain.
+
+## Proposal Requirements
+- Ascendant rank requires at least one NERN proposal.
+- Proposals must tie to vetted POCs from the catalog.
+- Include clear milestones and deliverables.
+- Reference specific prototyping needs.
+
+## Bounty and Milestone Tracking
+- Vanguard rank requires awarded bounty or accepted milestone.
+- Evidence must include on-chain award or acceptance link.
+- NERN status must be verifiable by reviewers.
+
+## Mission Design Guidelines
+- Design missions that naturally lead to NERN proposals.
+- Ensure mission outcomes align with NERN bounty criteria.
+- Create clear paths from mission completion to NERN submission.
+- Track which missions generate NERN activity.
+
+## Evidence Standards
+- NERN proposal link required for Ascendant missions.
+- On-chain award or milestone acceptance for Vanguard.
+- NERN links must resolve and show correct status.

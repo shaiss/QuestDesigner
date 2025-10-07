@@ -1,0 +1,35 @@
+---
+description: Standard reviewer checklist for mission acceptance
+---
+# Reviewer Checklist
+
+## Review Process
+- Target SLA: 72 hours per submission.
+- Review time limit: 15 minutes maximum per mission.
+- Binary decision: Accept or request revision.
+
+## Verification Steps
+1. Links resolve and match the task.
+2. Project builds from a clean clone with one command.
+3. Tests or CI pass.
+4. Explorer links valid and show claimed transactions.
+5. No plagiarism or duplicate submissions.
+
+## Code Review
+- README includes clear run steps.
+- Dependencies are specified.
+- Code runs without manual intervention.
+- Output matches claimed evidence.
+
+## Content Review
+- Guides install and run from scratch.
+- Blog posts explain what was built and why.
+- Videos show code and run steps.
+- Partner acknowledgment present where required.
+
+## Rejection Criteria
+- Links broken or inaccessible.
+- Code does not build or run.
+- Evidence does not match task requirements.
+- Plagiarized or duplicate work.
+- Missing required elements from acceptance criteria.

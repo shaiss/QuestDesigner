@@ -1,0 +1,28 @@
+---
+description: Evidence submission and review requirements
+---
+# Evidence Rules
+
+## Submission Requirements
+- Link field required on every mission submission.
+- For code: Include repo URL, tag or commit, and run steps in README.
+- For on-chain work: Include explorer links or NERN links.
+- For demos: Include short clip or live URL.
+- Proof text limit: 500 characters maximum.
+- Screenshots: Up to 5 files, 1 MB each.
+
+## Code Evidence
+- Repository must be public or accessible to reviewers.
+- Include README with one-command build and run steps.
+- Tag or commit hash required for version tracking.
+- Tests or CI must pass.
+
+## On-Chain Evidence
+- Explorer links must be valid and resolve.
+- Transaction hashes must match the claimed action.
+- NERN proposal or milestone links must show correct status.
+
+## Demo Evidence
+- Live URL must be accessible.
+- Video clips should be under 5 minutes.
+- Screenshots must show key functionality.

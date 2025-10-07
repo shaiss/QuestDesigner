@@ -1,0 +1,35 @@
+---
+description: Standard mission specification template for Builder track
+---
+# Mission Specification Template
+
+Use this template for every mission you design.
+
+## Format
+```
+**B-[Rank initial]-[#]. [Short title]**
+
+- Task. One paragraph with exact outcome.
+- Evidence. Required links. Example: repo tag, explorer tx, NERN item, Dev Hub page, video.
+- Acceptance. Binary checks reviewers follow.
+```
+
+## Mission Code Structure
+- B = Builder track
+- Rank initial: I (Initiate), A (Ascendant), V (Vanguard), P (Prime), M (Mythic)
+- # = Sequential number within rank
+
+## Task Section
+- One paragraph maximum.
+- State the exact outcome.
+- Use active voice and second person.
+
+## Evidence Section
+- List all required links.
+- Specify format: repo URL, tag/commit, explorer link, NERN link, video, etc.
+- Be explicit about what must be included.
+
+## Acceptance Section
+- Binary checks only.
+- Reviewers must be able to verify in under 15 minutes.
+- No subjective criteria.

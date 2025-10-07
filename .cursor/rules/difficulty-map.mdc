@@ -1,0 +1,45 @@
+---
+description: Difficulty progression and dependencies across ranks
+---
+# Difficulty Map
+
+## Initiate
+- Setup and configuration tasks.
+- Single action, single repository.
+- Follow existing tutorials or quickstarts.
+- No integration complexity.
+- Time estimate: 1-4 hours per mission.
+
+## Ascendant
+- Two pillars in one flow.
+- CI/CD integration.
+- First PR or NERN proposal.
+- Basic cross-component work.
+- Time estimate: 4-8 hours per mission.
+
+## Vanguard
+- Feature-complete slice of functionality.
+- Package release or public deployment.
+- Public presentation or talk.
+- Multi-component integration.
+- Time estimate: 8-16 hours per mission.
+
+## Prime
+- Production readiness work.
+- Partner acknowledgment required.
+- Indexer or API development.
+- Security and performance considerations.
+- Time estimate: 16-32 hours per mission.
+
+## Mythic
+- Live service with SLOs.
+- Maintainership responsibilities.
+- Mentorship of other builders.
+- Partner reference integration.
+- Time estimate: 32+ hours per mission.
+
+## Dependencies
+- Each rank builds on skills from previous ranks.
+- No mission should require skills not taught in prior ranks.
+- Prefer linear progression within a rank.
+- Flag any circular dependencies for revision.
