@@ -1,5 +1,10 @@
 # Quest Designer for NEAR Legion
 
+[![NEAR Protocol](https://img.shields.io/badge/NEAR-Protocol-00D4FF.svg)](https://near.org)
+[![NEAR Legion](https://img.shields.io/badge/NEAR-Legion-purple.svg)](https://near.org)
+[![Quest System](https://img.shields.io/badge/Quest-System-orange.svg)](https://nern.near.org)
+[![Builder Tools](https://img.shields.io/badge/Builder-Tools-green.svg)](https://dev.near.org)
+
 Quest Designer is a structured framework for designing, managing, and validating Builder track missions for NEAR Legion. It provides comprehensive Cursor rules to ensure consistent, high-quality mission design aligned with NEAR ecosystem pillars.
 
 ## Overview
